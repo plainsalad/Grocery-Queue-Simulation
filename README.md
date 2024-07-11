@@ -4,8 +4,8 @@ This project implements a simulation to model a grocery store's checkout process
 
 ## Files
 
-- `Code.ipynb`
-- `Report.pdf`
+- `Code.ipynb`: The main Jupyter notebook containing the simulation code.
+- `Report.pdf`: A detailed report of the project, including methodology, results, and analysis.
 
 ## Requirements
 
@@ -32,6 +32,10 @@ This project implements a simulation to model a grocery store's checkout process
     - Define the necessary classes for the simulation (Event, Schedule, Customer, Queue, ManagerQueue, GroceryStore).
     - Implement the simulation logic.
     - Run the simulation for different scenarios and analyze the results.
+
+### Viewing the Report
+
+For a detailed explanation of the project, including the modeling, simulation process, and results, refer to the `Report.pdf` file.
 
 ## Project Structure
 
